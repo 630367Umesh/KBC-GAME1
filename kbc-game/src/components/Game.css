@@ -1,0 +1,28 @@
+.game {
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .correct {
+    color: green;
+  }
+  
+  .incorrect {
+    color: red;
+  }
+  
